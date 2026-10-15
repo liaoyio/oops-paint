@@ -14,7 +14,7 @@
 
 ```text
 请用 $skill-installer 将这个仓库根目录的 Skill 安装为 oops-paint，供我在各项目中使用：
-<当前仓库的 GitHub 链接>
+<当前仓库的 GitHub 链接 https://github.com/liaoyio/oops-paint>
 
 安装后检查 SKILL.md 和 references/ 是否完整。若已有同名 Skill，先比较差异，不覆盖本地修改。
 ```
